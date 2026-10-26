@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Enable Design Clone",
-  description: "Next.js clone of enabledesign.io built with Tailwind CSS and shadcn/ui.",
+  title: "Enable Design — AI Product Design Consultancy",
+  description:
+    "From idea to validated AI product design — faster, and with confidence. Enable Design pairs senior product designers with AI-accelerated research, prototyping, and validation.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
