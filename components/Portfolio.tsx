@@ -24,7 +24,7 @@ const CASE_STUDIES: CaseStudy[] = [
       "A clinical triage copilot that drafts intake summaries for care teams, designed around human-in-the-loop review.",
     metric: "-41%",
     metricLabel: "intake time per patient",
-    image: "https://picsum.photos/seed/enable-pulse/800/600",
+    image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&h=600&q=80",
     imageAlt: "Pulse AI clinical triage dashboard preview",
   },
   {
@@ -34,7 +34,7 @@ const CASE_STUDIES: CaseStudy[] = [
       "B2B storefront redesign with AI-powered merchandising and a self-serve checkout flow for procurement teams.",
     metric: "+38%",
     metricLabel: "trial-to-paid activation",
-    image: "https://picsum.photos/seed/enable-orbit/800/600",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&h=600&q=80",
     imageAlt: "Orbit Commerce storefront interface preview",
   },
   {
@@ -44,7 +44,7 @@ const CASE_STUDIES: CaseStudy[] = [
       "A consumer banking app rebuilt around one-thumb navigation and proactive, explainable money insights.",
     metric: "4.8★",
     metricLabel: "App Store rating after relaunch",
-    image: "https://picsum.photos/seed/enable-nestbank/800/600",
+    image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=800&h=600&q=80",
     imageAlt: "Nestbank mobile banking app preview",
   },
   {
@@ -54,7 +54,7 @@ const CASE_STUDIES: CaseStudy[] = [
       "A unified operations console for a cloud infrastructure platform serving 2,000+ enterprise engineering teams.",
     metric: "-52%",
     metricLabel: "time-to-task for core flows",
-    image: "https://picsum.photos/seed/enable-helix/800/600",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&h=600&q=80",
     imageAlt: "Helix cloud operations console preview",
   },
   {
@@ -64,7 +64,7 @@ const CASE_STUDIES: CaseStudy[] = [
       "An agent-assist experience that drafts, cites, and escalates — cutting handle time while keeping agents in control.",
     metric: "+27%",
     metricLabel: "CSAT within one quarter",
-    image: "https://picsum.photos/seed/enable-aria/800/600",
+    image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=800&h=600&q=80",
     imageAlt: "Aria support copilot workspace preview",
   },
   {
@@ -74,7 +74,7 @@ const CASE_STUDIES: CaseStudy[] = [
       "Logistics visibility platform with predictive ETAs and exception-based workflows for dispatch teams.",
     metric: "3.1x",
     metricLabel: "faster exception resolution",
-    image: "https://picsum.photos/seed/enable-fleet/800/600",
+    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&h=600&q=80",
     imageAlt: "FleetIQ logistics dashboard preview",
   },
 ];

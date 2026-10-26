@@ -63,7 +63,7 @@
       "component": "components/Portfolio.tsx",
       "title": "Work that shipped — and moved the numbers",
       "interactive": "Client-side category filter tabs: All / AI Product / SaaS / Mobile / Enterprise",
-      "images": "https://picsum.photos/seed/enable-<slug>/800/600 (allowed via next.config images.remotePatterns)",
+      "images": "https://images.unsplash.com/photo-<id>?auto=format&fit=crop&w=800&h=600&q=80 (verified HTTP 200; allowed via next.config images.remotePatterns)",
       "items": [
         { "title": "Pulse AI", "category": "AI Product", "metric": "-41% intake time per patient" },
         { "title": "Orbit Commerce", "category": "SaaS", "metric": "+38% trial-to-paid activation" },
@@ -85,7 +85,7 @@
         "Measurable success criteria per release"
       ],
       "steps": ["01 Discover", "02 Design", "03 Validate", "04 Ship"],
-      "image": "https://picsum.photos/seed/enable-studio/880/660"
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=880&h=660&q=80"
     },
     {
       "id": "contact",

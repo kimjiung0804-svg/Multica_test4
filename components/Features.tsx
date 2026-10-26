@@ -81,7 +81,7 @@ export function Features() {
               className="absolute -inset-4 rounded-3xl bg-gradient-to-tr from-indigo-100 to-indigo-50"
             />
             <Image
-              src="https://picsum.photos/seed/enable-studio/880/660"
+              src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=880&h=660&q=80"
               alt="Enable Design team reviewing prototype validation results"
               width={880}
               height={660}
